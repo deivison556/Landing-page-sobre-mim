@@ -4,4 +4,12 @@
   --cor-primaria: #000000;
   --cor-secundaria: #e53939;
   --cor-tercearia: #ffffff;
+  --cor-hover: #f51e1e;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
